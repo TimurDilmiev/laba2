@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="52.0" y="-35.5">Facade</node>
+    <node x="2082.0" y="-35.5">Machamp</node>
+    <node x="1148.0" y="-35.5">Thunder</node>
+    <node x="1014.0" y="-35.5">Flatter</node>
+    <node x="863.5" y="-35.5">Oranguru</node>
+    <node x="2232.5" y="-35.5">Battleground</node>
+    <node x="190.0" y="-35.5">DarmanitanStandart</node>
+    <node x="2088.0" y="-275.5">Machop</node>
+    <node x="1912.5" y="-35.5">SludgeBomb</node>
+    <node x="1733.5" y="-35.5">DoubleTeam</node>
+    <node x="1620.0" y="-35.5">Rest</node>
+    <node x="221.5" y="-155.5">Darumaka</node>
+    <node x="731.0" y="-35.5">Psychic</node>
+    <node x="1466.0" y="-35.5">Swagger</node>
+    <node x="586.0" y="-35.5">Mudslap</node>
+    <node x="2085.0" y="-155.5">Machoke</node>
+    <node x="1299.5" y="-35.5">RockTomb</node>
+    <node x="415.0" y="-35.5">Thunderbolt</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Machoke" target="Machop" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="Machamp" target="Machoke" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="DarmanitanStandart" target="Darumaka" relationship="GENERALIZATION">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="0.6262842465753424" showDependencies="true" x="1210.0" y="-140.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
